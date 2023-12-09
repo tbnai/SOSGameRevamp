@@ -458,6 +458,11 @@ public class Board extends JPanel
 		return null;
 	}
 
+	public Object getGameMode() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 
 }
 
